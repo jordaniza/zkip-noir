@@ -16,6 +16,8 @@ Maintaining different wallets like this has a number of benefits:
 - You can interact with new or experimental protocols with more confidence
 - You can separate distinct identities when interacting with different communities.
 
+![image](https://github.com/jordaniza/zkip-noir/assets/45881807/61bca7f2-6b22-4231-9bb0-cc019e560fa0)
+
 One of the problems with this though, is that it's difficult to build a reputation on any one wallet. In order to maintain privacy and separation, the wallets can't interact with each other, and so for DApps and protocols, your new wallets have limited or no history. 
 
 When I look at the potential for identity platforms in blockchains, I see this as a potential limiting factor in their usage - not all users will want to make their carefully separated identities publicly linked.
@@ -25,6 +27,8 @@ On the other hand, if users with strong identities can leverage these in some wa
 ## Exploratory Solution
 
 On idea to solve this would be to explore the use of Zero Knowledge Proofs to generate provable statements about a user's associated private wallets, that can be then associated with a public "Proxy" wallet.
+
+![image](https://github.com/jordaniza/zkip-noir/assets/45881807/8d51015f-9b63-4a02-9773-f261b83b95a5)
 
 Some examples:
 
